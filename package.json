@@ -1,0 +1,17 @@
+{
+  "author": "alexandru topliceanu <alexandru.topliceanu@gmail.com> (https://github.com/topliceanu)",
+  "name": "phoner",
+  "description": "mobile app emulator, used in testing a mobile app's backend by emulating application workflow and message signatures",
+  "version": "0.0.1",
+  "homepage": "https://github.com/topliceanu/phoner",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/topliceanu/phoner.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
